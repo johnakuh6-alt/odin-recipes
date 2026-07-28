@@ -1,1 +1,1 @@
-# odin-recipes
+    This is my first project on odin,and it is titled odin-recipes,it is basically a web-site showcasing various meal recipes.I would like to build a well-developed web-site properly connceted and organized with links from page to page,and pictures of the recipes with proper usage of the html elements I know so far.
